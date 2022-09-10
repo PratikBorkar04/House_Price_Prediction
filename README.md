@@ -17,3 +17,10 @@ Activate new environment
 '''
 conda activate venv/
 '''
+
+Process of adding files in repository
+'''
+git add .
+git commit -m "" 
+git push origin main
+'''

@@ -26,7 +26,7 @@ git push origin main
 '''
 
 '''
-cd ..
+    cd ..
 set FLASK_APP=House_Price_Prediction  
 flask --app House_Price_Prediction run 
 

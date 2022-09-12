@@ -24,3 +24,9 @@ git add .
 git commit -m "" 
 git push origin main
 '''
+
+'''
+set FLASK_APP=House_Price_Prediction  
+flask --app House_Price_Prediction run 
+
+'''
